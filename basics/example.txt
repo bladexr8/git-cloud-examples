@@ -1,1 +1,1 @@
-example Angular
+example
